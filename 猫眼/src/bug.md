@@ -1,0 +1,1 @@
+comingSoonSwiper Vue.nextTick 放到回调函数里面 解决异步
